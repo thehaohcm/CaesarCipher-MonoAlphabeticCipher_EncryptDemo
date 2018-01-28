@@ -1,0 +1,9 @@
+c:\users\thehaohcm\documents\visual studio 2015\Projects\MonoAlphabeticCipher\MonoAlphabeticCipher\bin\Debug\MonoAlphabeticCipher.exe.config
+C:\Users\thehaohcm\documents\visual studio 2015\Projects\MonoAlphabeticCipher\MonoAlphabeticCipher\bin\Debug\MonoAlphabeticCipher.exe
+C:\Users\thehaohcm\documents\visual studio 2015\Projects\MonoAlphabeticCipher\MonoAlphabeticCipher\bin\Debug\MonoAlphabeticCipher.pdb
+C:\Users\thehaohcm\documents\visual studio 2015\Projects\MonoAlphabeticCipher\MonoAlphabeticCipher\obj\Debug\MonoAlphabeticCipher.csprojResolveAssemblyReference.cache
+C:\Users\thehaohcm\documents\visual studio 2015\Projects\MonoAlphabeticCipher\MonoAlphabeticCipher\obj\Debug\MonoAlphabeticCipher.Form1.resources
+C:\Users\thehaohcm\documents\visual studio 2015\Projects\MonoAlphabeticCipher\MonoAlphabeticCipher\obj\Debug\MonoAlphabeticCipher.Properties.Resources.resources
+C:\Users\thehaohcm\documents\visual studio 2015\Projects\MonoAlphabeticCipher\MonoAlphabeticCipher\obj\Debug\MonoAlphabeticCipher.csproj.GenerateResource.Cache
+C:\Users\thehaohcm\documents\visual studio 2015\Projects\MonoAlphabeticCipher\MonoAlphabeticCipher\obj\Debug\MonoAlphabeticCipher.exe
+C:\Users\thehaohcm\documents\visual studio 2015\Projects\MonoAlphabeticCipher\MonoAlphabeticCipher\obj\Debug\MonoAlphabeticCipher.pdb
